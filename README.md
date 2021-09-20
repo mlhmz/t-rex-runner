@@ -1,4 +1,4 @@
-## terrible runner
+# Terrible Runner
 
-# just a fork of the extracted t-rex runner repository
-# W.I.P
+## Info
+W.I.P
